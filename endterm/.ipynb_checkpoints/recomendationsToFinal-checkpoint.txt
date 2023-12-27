@@ -1,0 +1,7 @@
+sns.pr pt outl
+SMOTE
+poly feature
+svc kernels and etc, and other parameters model
+Hard and SoftVotingClassifier
+4 класса, не упрощать, разобраться в моделях
+мб кэтбуст
